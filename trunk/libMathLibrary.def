@@ -1,0 +1,5 @@
+EXPORTS
+    Java_pe_rmlabs_sandbox_JNIMathClient_addTwoNumbers = Java_pe_rmlabs_sandbox_JNIMathClient_addTwoNumbers@16 @1
+    Java_pe_rmlabs_sandbox_JNIMathClient_addTwoNumbers@16 @2
+    Java_pe_rmlabs_sandbox_JNIMathClient_multiplyTwoNumbers = Java_pe_rmlabs_sandbox_JNIMathClient_multiplyTwoNumbers@16 @3
+    Java_pe_rmlabs_sandbox_JNIMathClient_multiplyTwoNumbers@16 @4
